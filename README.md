@@ -5,7 +5,9 @@ Bem-vindo ao meu perfil no GitHub.
 Sou programador, web designer e desenvolvedor back-end.
 
 Social:
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div>
+<a href="https://www.linkedin.com/in/pedro-andrade-281560250"target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ### Linguagens e ferramentas:
 <span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></span>
