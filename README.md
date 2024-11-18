@@ -10,7 +10,7 @@ Sou programador, web designer e desenvolvedor back-end.
 </div>
 
 
-## Social:
+### Social:
 <div>
 <a href="https://www.linkedin.com/in/pedro-andrade-281560250"target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
