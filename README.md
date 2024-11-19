@@ -33,3 +33,5 @@ Sou programador, web designer e desenvolvedor back-end.
 <span><img height="30" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"></span>
 <span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></span>
 <span><img height="30" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"></span>
+
+![Snake animation](https://github.com/pedroandrade932/pedroandrade932/blob/output/github-contribution-grid-snake.svg)
