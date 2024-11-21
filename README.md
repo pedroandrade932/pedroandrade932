@@ -1,4 +1,4 @@
-## - Olá, eu sou Pedro G. Holanda Andrade.
+<h1>Olá, eu sou Pedro G. Holanda Andrade.</h1>
 
 Bem-vindo ao meu perfil no GitHub.
 
