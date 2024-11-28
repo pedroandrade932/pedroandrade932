@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil no GitHub.
 
-Sou programador, web designer e desenvolvedor back-end.
+Sou Técnico em informática, pixel artist e desenvolvedor back-end.
 
 <div>
 <a href="https://github.com/pedroandrade932">
