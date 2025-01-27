@@ -14,7 +14,7 @@ Sou Técnico em informática, pixel artist e desenvolvedor back-end.
 ### Social:
 <div>
 <a href="https://www.linkedin.com/in/pedro-andrade-281560250"target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/pedro_holanda_1?igsh=dnNndzh0dHg2M2hr"target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23cd5ebe?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/pedro_holanda_1"target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23cd5ebe?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ### Linguagens e ferramentas que utilizo:
