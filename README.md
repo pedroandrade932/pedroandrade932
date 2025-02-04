@@ -17,7 +17,7 @@ Sou Técnico em informática, pixel artist, designer gráfico, editor e desenvol
 <a href="https://www.instagram.com/pedro_holanda_1"target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23cd5ebe?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-### Linguagens e ferramentas que utilizo:
+### Algumas Linguagens e ferramentas que utilizo:
 <span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></span>
 <span><img height="30" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"></span>
 <span><img height="30" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"></span>
@@ -33,6 +33,7 @@ Sou Técnico em informática, pixel artist, designer gráfico, editor e desenvol
 <span><img height="30" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"></span>
 <span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></span>
 <span><img height="30" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"></span>
+<span><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg"></span>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroandrade932/pedroandrade932/output/github-contribution-grid-snake-dark.svg">
