@@ -6,8 +6,8 @@ Sou Técnico em informática, pixel artist e desenvolvedor back-end.
 
 <div>
 <a href="https://github.com/pedroandrade932">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroandrade932&layout=compact&langs_count=7&title_color=ffffff&theme=highcontrast"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroandrade932&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&theme=highcontrast"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroandrade932&layout=compact&langs_count=7&theme=tokyonight"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroandrade932&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
 </div>
 
 
