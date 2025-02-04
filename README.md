@@ -1,4 +1,4 @@
-<h1>Olá, eu sou Pedro G. Holanda Andrade.</h1>
+# Olá, eu sou Pedro G. Holanda Andrade.
 
 Bem-vindo ao meu perfil no GitHub.
 
@@ -10,14 +10,13 @@ Sou Técnico em informática, pixel artist, designer gráfico, editor e desenvol
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroandrade932&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
 </div>
 
-
-### Social:
+### Meus perfis em outras redes sociais:
 <div>
 <a href="https://www.linkedin.com/in/pedro-andrade-281560250"target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/pedro_holanda_1"target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23cd5ebe?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-### Algumas Linguagens e ferramentas que utilizo:
+### Algumas linguagens e ferramentas que utilizo:
 <span><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></span>
 <span><img height="30" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"></span>
 <span><img height="30" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"></span>
