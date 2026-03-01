@@ -2,7 +2,9 @@
 
 Bem-vindo ao meu perfil no GitHub.
 
-Sou Técnico em informática, pixel artist, designer gráfico, editor e desenvolvedor full-stack.
+Sou Técnico em informática, desenvolvedor back-end e desenvolvedor de Jogos eletrônicos.
+
+
 
 <div>
 <a href="https://github.com/pedroandrade932">
