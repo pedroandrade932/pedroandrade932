@@ -8,8 +8,6 @@ Sou Técnico em informática, desenvolvedor back-end e desenvolvedor de Jogos el
 
 <div>
 <a href="https://github.com/pedroandrade932">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroandrade932&layout=compact&langs_count=8&theme=dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroandrade932&show_icons=true&include_all_commits=false&count_private=true&theme=dark"/>
 </div>
 
 ### Meus perfis em outras redes sociais:
